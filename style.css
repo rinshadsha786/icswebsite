@@ -1,0 +1,278 @@
+.heading 
+    {
+        background-color: rgb(76, 76, 153);
+        height: 100px;
+        width: 100%;
+    }
+.heading > .logo > img 
+    {
+        height: 100px;
+        margin-left: 50px;
+    }
+.heading > .online 
+    {
+        margin-left: 320px;
+        margin-top: -80px;
+        background-color:rgb(16, 157, 238);
+        width: 150px;
+        text-align: center;
+        border-radius: 10px;
+        color: rgb(255, 255, 255);
+    }
+.heading > .online > p 
+    {
+        padding: 7px;
+    }
+.heading > .email{
+    margin-left: 550px;
+    margin-top: -44px;
+    color: white;
+    font-family: tahoma;
+    font-size: 17px;
+    font-weight: bold;
+    
+}
+.heading > .call > p{
+   margin-left: 850px;
+   margin-top: -40px;
+   background-color: red;
+   width: 110px;
+   text-align: center;
+   border-radius: 20px;
+   padding: 7px;
+   color: white;
+   font-weight: bold;
+}
+.phone{
+    margin-left: 1050px;
+    margin-top: -42px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.menu > ul > li{
+list-style-type: none;
+display: inline;
+margin-right: 90px;
+font-weight: bold;
+}
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .box1{
+    width: 300px;
+    background-color: blue;
+    text-align: center;
+    font-weight: bold;
+    padding: 12px;  
+  }
+  .box2{
+    width: 300px;
+    background-color: rgb(25, 185, 221);
+    text-align: center;
+    font-weight: bold;
+    padding: 12px; 
+    margin-left: 330px; 
+    margin-top: -220px;
+  }
+  .box3{
+    width: 300px;
+    background-color: rgb(15, 181, 78);
+    text-align: center;
+    font-weight: bold;
+    padding: 12px; 
+    margin-left: 660px; 
+    margin-top: -220px;
+  }
+  .box4{
+    width: 300px;
+    background-color: rgb(15, 181, 78);
+    text-align: center;
+    font-weight: bold;
+    padding: 12px; 
+    margin-left: 990px; 
+    margin-top: -220px;
+  }
+  hr 
+  {
+    margin: 20px;
+    margin-top: -20px;
+    border-width: 2px;
+  }
+  .banner > .image > img{
+    height: 500px;
+    width: 500px;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    
+  }
+  .banner > .paragraph{
+    margin-left: 700px;
+    padding: 12;
+    margin-top: -520px;
+  }
+  .banner > .paragraph > p{
+    line-height: 30px;
+    font-size: 18px;
+    font-family: tahoma;
+  }
+  .banner2{
+    margin-left: 100px;
+    margin-right: 600px;
+    font-size: 18px;
+    font-family: tahoma;
+    margin-top: 100px;
+    background-color: blue;
+    
+  }
+
+  .form{
+    margin-left: 900px;  
+    margin-top: -420px;
+    font-size: 18PX;
+    font-weight: bold;
+    margin-bottom: 500px;
+    background-color: blue;
+
+  }
+  .form > input{
+    height: 40px;
+    width: 350px;
+    margin-top: 10px;
+    
+  }
+  
+  button{
+    height: 45px;
+    width: 140px;
+    margin-top: 30px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    
+  }
+  .banner3{
+    background-color: blue;
+   
+  }
+  .content{
+    margin-top: -400px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-family:Tahoma;
+  }
+  .swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } 
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .courses3{
+    margin-bottom: 100px;
+    background-color: rgb(48, 48, 116);
+    color: white;
+    height:350px;
+  }
+
+  .courses3 h2{
+    margin-left: 120px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: tahoma;
+    padding-top: 50px;
+  }
+
+  .courses3 .list1{
+    margin-left: 100px;
+    font-family: tahoma;
+    font-size: 15px;
+    margin-bottom: 80px;
+    margin-top: 50px;
+  }
+
+  .courses3 .list2{
+    margin-left: 400px;
+    font-family: tahoma;
+    font-size: 15px;
+    margin-top: -240px;
+    margin-bottom: 50px;
+  }
+
+  .courses3 .list3{
+    margin-left: 700px;
+    font-family: tahoma;
+    font-size: 15px;
+    margin-top: -210px;
+    margin-bottom: 50px;
+  }
+
+  .courses3 .list4{
+    margin-left: 1000px;
+    font-family: tahoma;
+    font-size: 15px;
+    margin-top: -210px;
+    margin-bottom: 50px;
+  }
+  .socialmedia .twitter{
+    margin-left: 1150px;
+    
+  }
+  .socialmedia .youtube{
+    margin-left: 1200px;
+    margin-top: -18px;
+  }
+  .socialmedia .facebook{
+    margin-left: 1250px;
+    margin-top: -18px;
+  }
+  .socialmedia{
+    margin-top: -80px;
+    margin-bottom: 100px;
+  }
+  .footer{
+    margin-top: -100px;
+  }
+  .footer h4 {
+    margin-left: 100px;
+    font-family: tahoma;
+  }
+  .footer p {
+    margin-left: 230px;
+    margin-top: -40px;
+    font-family: tahoma;
+  }
+ 
